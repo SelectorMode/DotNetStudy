@@ -1,0 +1,10 @@
+E:\DotNET\repos\StringIsNull_ConsoleApp4\StringIsNull_ConsoleApp4\bin\Debug\netcoreapp2.1\StringIsNull_ConsoleApp4.deps.json
+E:\DotNET\repos\StringIsNull_ConsoleApp4\StringIsNull_ConsoleApp4\bin\Debug\netcoreapp2.1\StringIsNull_ConsoleApp4.runtimeconfig.json
+E:\DotNET\repos\StringIsNull_ConsoleApp4\StringIsNull_ConsoleApp4\bin\Debug\netcoreapp2.1\StringIsNull_ConsoleApp4.runtimeconfig.dev.json
+E:\DotNET\repos\StringIsNull_ConsoleApp4\StringIsNull_ConsoleApp4\bin\Debug\netcoreapp2.1\StringIsNull_ConsoleApp4.dll
+E:\DotNET\repos\StringIsNull_ConsoleApp4\StringIsNull_ConsoleApp4\bin\Debug\netcoreapp2.1\StringIsNull_ConsoleApp4.pdb
+E:\DotNET\repos\StringIsNull_ConsoleApp4\StringIsNull_ConsoleApp4\obj\Debug\netcoreapp2.1\StringIsNull_ConsoleApp4.csproj.CoreCompileInputs.cache
+E:\DotNET\repos\StringIsNull_ConsoleApp4\StringIsNull_ConsoleApp4\obj\Debug\netcoreapp2.1\StringIsNull_ConsoleApp4.AssemblyInfoInputs.cache
+E:\DotNET\repos\StringIsNull_ConsoleApp4\StringIsNull_ConsoleApp4\obj\Debug\netcoreapp2.1\StringIsNull_ConsoleApp4.AssemblyInfo.cs
+E:\DotNET\repos\StringIsNull_ConsoleApp4\StringIsNull_ConsoleApp4\obj\Debug\netcoreapp2.1\StringIsNull_ConsoleApp4.dll
+E:\DotNET\repos\StringIsNull_ConsoleApp4\StringIsNull_ConsoleApp4\obj\Debug\netcoreapp2.1\StringIsNull_ConsoleApp4.pdb

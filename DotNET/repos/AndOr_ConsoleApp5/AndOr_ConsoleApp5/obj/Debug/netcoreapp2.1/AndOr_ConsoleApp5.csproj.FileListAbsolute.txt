@@ -1,0 +1,11 @@
+E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\bin\Debug\netcoreapp2.1\AndOr_ConsoleApp5.deps.json
+E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\bin\Debug\netcoreapp2.1\AndOr_ConsoleApp5.runtimeconfig.json
+E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\bin\Debug\netcoreapp2.1\AndOr_ConsoleApp5.runtimeconfig.dev.json
+E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\bin\Debug\netcoreapp2.1\AndOr_ConsoleApp5.dll
+E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\bin\Debug\netcoreapp2.1\AndOr_ConsoleApp5.pdb
+E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.csprojAssemblyReference.cache
+E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.csproj.CoreCompileInputs.cache
+E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.AssemblyInfoInputs.cache
+E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.AssemblyInfo.cs
+E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.dll
+E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.pdb

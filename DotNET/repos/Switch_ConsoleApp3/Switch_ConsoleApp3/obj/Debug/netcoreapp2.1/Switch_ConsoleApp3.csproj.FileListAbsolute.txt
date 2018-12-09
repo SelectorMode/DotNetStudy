@@ -1,0 +1,10 @@
+E:\DotNET\repos\Switch_ConsoleApp3\Switch_ConsoleApp3\bin\Debug\netcoreapp2.1\Switch_ConsoleApp3.deps.json
+E:\DotNET\repos\Switch_ConsoleApp3\Switch_ConsoleApp3\bin\Debug\netcoreapp2.1\Switch_ConsoleApp3.runtimeconfig.json
+E:\DotNET\repos\Switch_ConsoleApp3\Switch_ConsoleApp3\bin\Debug\netcoreapp2.1\Switch_ConsoleApp3.runtimeconfig.dev.json
+E:\DotNET\repos\Switch_ConsoleApp3\Switch_ConsoleApp3\bin\Debug\netcoreapp2.1\Switch_ConsoleApp3.dll
+E:\DotNET\repos\Switch_ConsoleApp3\Switch_ConsoleApp3\bin\Debug\netcoreapp2.1\Switch_ConsoleApp3.pdb
+E:\DotNET\repos\Switch_ConsoleApp3\Switch_ConsoleApp3\obj\Debug\netcoreapp2.1\Switch_ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\DotNET\repos\Switch_ConsoleApp3\Switch_ConsoleApp3\obj\Debug\netcoreapp2.1\Switch_ConsoleApp3.AssemblyInfoInputs.cache
+E:\DotNET\repos\Switch_ConsoleApp3\Switch_ConsoleApp3\obj\Debug\netcoreapp2.1\Switch_ConsoleApp3.AssemblyInfo.cs
+E:\DotNET\repos\Switch_ConsoleApp3\Switch_ConsoleApp3\obj\Debug\netcoreapp2.1\Switch_ConsoleApp3.dll
+E:\DotNET\repos\Switch_ConsoleApp3\Switch_ConsoleApp3\obj\Debug\netcoreapp2.1\Switch_ConsoleApp3.pdb

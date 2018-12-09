@@ -1,0 +1,10 @@
+E:\DotNET\repos\TernarOper_ConsoleApp2\TernarOper_ConsoleApp2\bin\Debug\netcoreapp2.1\TernarOper_ConsoleApp2.deps.json
+E:\DotNET\repos\TernarOper_ConsoleApp2\TernarOper_ConsoleApp2\bin\Debug\netcoreapp2.1\TernarOper_ConsoleApp2.runtimeconfig.json
+E:\DotNET\repos\TernarOper_ConsoleApp2\TernarOper_ConsoleApp2\bin\Debug\netcoreapp2.1\TernarOper_ConsoleApp2.runtimeconfig.dev.json
+E:\DotNET\repos\TernarOper_ConsoleApp2\TernarOper_ConsoleApp2\bin\Debug\netcoreapp2.1\TernarOper_ConsoleApp2.dll
+E:\DotNET\repos\TernarOper_ConsoleApp2\TernarOper_ConsoleApp2\bin\Debug\netcoreapp2.1\TernarOper_ConsoleApp2.pdb
+E:\DotNET\repos\TernarOper_ConsoleApp2\TernarOper_ConsoleApp2\obj\Debug\netcoreapp2.1\TernarOper_ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\DotNET\repos\TernarOper_ConsoleApp2\TernarOper_ConsoleApp2\obj\Debug\netcoreapp2.1\TernarOper_ConsoleApp2.AssemblyInfoInputs.cache
+E:\DotNET\repos\TernarOper_ConsoleApp2\TernarOper_ConsoleApp2\obj\Debug\netcoreapp2.1\TernarOper_ConsoleApp2.AssemblyInfo.cs
+E:\DotNET\repos\TernarOper_ConsoleApp2\TernarOper_ConsoleApp2\obj\Debug\netcoreapp2.1\TernarOper_ConsoleApp2.dll
+E:\DotNET\repos\TernarOper_ConsoleApp2\TernarOper_ConsoleApp2\obj\Debug\netcoreapp2.1\TernarOper_ConsoleApp2.pdb
