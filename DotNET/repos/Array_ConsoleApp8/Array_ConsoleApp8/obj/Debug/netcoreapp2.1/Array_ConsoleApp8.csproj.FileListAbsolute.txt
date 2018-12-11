@@ -1,0 +1,11 @@
+D:\DotNetStudy\DotNET\repos\Array_ConsoleApp8\Array_ConsoleApp8\bin\Debug\netcoreapp2.1\Array_ConsoleApp8.deps.json
+D:\DotNetStudy\DotNET\repos\Array_ConsoleApp8\Array_ConsoleApp8\bin\Debug\netcoreapp2.1\Array_ConsoleApp8.runtimeconfig.json
+D:\DotNetStudy\DotNET\repos\Array_ConsoleApp8\Array_ConsoleApp8\bin\Debug\netcoreapp2.1\Array_ConsoleApp8.runtimeconfig.dev.json
+D:\DotNetStudy\DotNET\repos\Array_ConsoleApp8\Array_ConsoleApp8\bin\Debug\netcoreapp2.1\Array_ConsoleApp8.dll
+D:\DotNetStudy\DotNET\repos\Array_ConsoleApp8\Array_ConsoleApp8\bin\Debug\netcoreapp2.1\Array_ConsoleApp8.pdb
+D:\DotNetStudy\DotNET\repos\Array_ConsoleApp8\Array_ConsoleApp8\obj\Debug\netcoreapp2.1\Array_ConsoleApp8.csprojAssemblyReference.cache
+D:\DotNetStudy\DotNET\repos\Array_ConsoleApp8\Array_ConsoleApp8\obj\Debug\netcoreapp2.1\Array_ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\DotNetStudy\DotNET\repos\Array_ConsoleApp8\Array_ConsoleApp8\obj\Debug\netcoreapp2.1\Array_ConsoleApp8.AssemblyInfoInputs.cache
+D:\DotNetStudy\DotNET\repos\Array_ConsoleApp8\Array_ConsoleApp8\obj\Debug\netcoreapp2.1\Array_ConsoleApp8.AssemblyInfo.cs
+D:\DotNetStudy\DotNET\repos\Array_ConsoleApp8\Array_ConsoleApp8\obj\Debug\netcoreapp2.1\Array_ConsoleApp8.dll
+D:\DotNetStudy\DotNET\repos\Array_ConsoleApp8\Array_ConsoleApp8\obj\Debug\netcoreapp2.1\Array_ConsoleApp8.pdb
