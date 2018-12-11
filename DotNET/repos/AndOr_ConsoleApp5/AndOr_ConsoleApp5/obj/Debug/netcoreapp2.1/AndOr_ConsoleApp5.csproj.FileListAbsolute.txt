@@ -9,3 +9,14 @@ E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debu
 E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.AssemblyInfo.cs
 E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.dll
 E:\GitHub\DotNet_study\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.pdb
+D:\DotNetStudy\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\bin\Debug\netcoreapp2.1\AndOr_ConsoleApp5.deps.json
+D:\DotNetStudy\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\bin\Debug\netcoreapp2.1\AndOr_ConsoleApp5.runtimeconfig.json
+D:\DotNetStudy\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\bin\Debug\netcoreapp2.1\AndOr_ConsoleApp5.runtimeconfig.dev.json
+D:\DotNetStudy\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\bin\Debug\netcoreapp2.1\AndOr_ConsoleApp5.dll
+D:\DotNetStudy\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\bin\Debug\netcoreapp2.1\AndOr_ConsoleApp5.pdb
+D:\DotNetStudy\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.csprojAssemblyReference.cache
+D:\DotNetStudy\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\DotNetStudy\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.AssemblyInfoInputs.cache
+D:\DotNetStudy\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.AssemblyInfo.cs
+D:\DotNetStudy\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.dll
+D:\DotNetStudy\DotNET\repos\AndOr_ConsoleApp5\AndOr_ConsoleApp5\obj\Debug\netcoreapp2.1\AndOr_ConsoleApp5.pdb

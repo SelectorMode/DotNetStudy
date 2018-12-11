@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNetStudy\\DotNET\\repos\\AndOr_ConsoleApp5\\AndOr_ConsoleApp5\\AndOr_ConsoleApp5.csproj",
-      "projectName": "AndOr_ConsoleApp5",
-      "projectPath": "D:\\DotNetStudy\\DotNET\\repos\\AndOr_ConsoleApp5\\AndOr_ConsoleApp5\\AndOr_ConsoleApp5.csproj",
+      "projectUniqueName": "D:\\DotNetStudy\\DotNET\\repos\\LoopFor_ConsoleApp6\\LoopFor_ConsoleApp6\\LoopFor_ConsoleApp6.csproj",
+      "projectName": "LoopFor_ConsoleApp6",
+      "projectPath": "D:\\DotNetStudy\\DotNET\\repos\\LoopFor_ConsoleApp6\\LoopFor_ConsoleApp6\\LoopFor_ConsoleApp6.csproj",
       "packagesPath": "C:\\Users\\skhomenko\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNetStudy\\DotNET\\repos\\AndOr_ConsoleApp5\\AndOr_ConsoleApp5\\obj\\",
+      "outputPath": "D:\\DotNetStudy\\DotNET\\repos\\LoopFor_ConsoleApp6\\LoopFor_ConsoleApp6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
