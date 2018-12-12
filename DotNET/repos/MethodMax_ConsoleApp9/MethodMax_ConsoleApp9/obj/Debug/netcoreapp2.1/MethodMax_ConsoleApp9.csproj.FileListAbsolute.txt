@@ -1,0 +1,11 @@
+E:\GitHub\DotNetStudy\DotNET\repos\MethodMax_ConsoleApp9\MethodMax_ConsoleApp9\bin\Debug\netcoreapp2.1\MethodMax_ConsoleApp9.deps.json
+E:\GitHub\DotNetStudy\DotNET\repos\MethodMax_ConsoleApp9\MethodMax_ConsoleApp9\bin\Debug\netcoreapp2.1\MethodMax_ConsoleApp9.runtimeconfig.json
+E:\GitHub\DotNetStudy\DotNET\repos\MethodMax_ConsoleApp9\MethodMax_ConsoleApp9\bin\Debug\netcoreapp2.1\MethodMax_ConsoleApp9.runtimeconfig.dev.json
+E:\GitHub\DotNetStudy\DotNET\repos\MethodMax_ConsoleApp9\MethodMax_ConsoleApp9\bin\Debug\netcoreapp2.1\MethodMax_ConsoleApp9.dll
+E:\GitHub\DotNetStudy\DotNET\repos\MethodMax_ConsoleApp9\MethodMax_ConsoleApp9\bin\Debug\netcoreapp2.1\MethodMax_ConsoleApp9.pdb
+E:\GitHub\DotNetStudy\DotNET\repos\MethodMax_ConsoleApp9\MethodMax_ConsoleApp9\obj\Debug\netcoreapp2.1\MethodMax_ConsoleApp9.csprojAssemblyReference.cache
+E:\GitHub\DotNetStudy\DotNET\repos\MethodMax_ConsoleApp9\MethodMax_ConsoleApp9\obj\Debug\netcoreapp2.1\MethodMax_ConsoleApp9.csproj.CoreCompileInputs.cache
+E:\GitHub\DotNetStudy\DotNET\repos\MethodMax_ConsoleApp9\MethodMax_ConsoleApp9\obj\Debug\netcoreapp2.1\MethodMax_ConsoleApp9.AssemblyInfoInputs.cache
+E:\GitHub\DotNetStudy\DotNET\repos\MethodMax_ConsoleApp9\MethodMax_ConsoleApp9\obj\Debug\netcoreapp2.1\MethodMax_ConsoleApp9.AssemblyInfo.cs
+E:\GitHub\DotNetStudy\DotNET\repos\MethodMax_ConsoleApp9\MethodMax_ConsoleApp9\obj\Debug\netcoreapp2.1\MethodMax_ConsoleApp9.dll
+E:\GitHub\DotNetStudy\DotNET\repos\MethodMax_ConsoleApp9\MethodMax_ConsoleApp9\obj\Debug\netcoreapp2.1\MethodMax_ConsoleApp9.pdb

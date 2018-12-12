@@ -1,0 +1,10 @@
+E:\GitHub\DotNetStudy\DotNET\repos\GetSet_ConsoleApp10\GetSet_ConsoleApp10\bin\Debug\netcoreapp2.1\GetSet_ConsoleApp10.deps.json
+E:\GitHub\DotNetStudy\DotNET\repos\GetSet_ConsoleApp10\GetSet_ConsoleApp10\bin\Debug\netcoreapp2.1\GetSet_ConsoleApp10.runtimeconfig.json
+E:\GitHub\DotNetStudy\DotNET\repos\GetSet_ConsoleApp10\GetSet_ConsoleApp10\bin\Debug\netcoreapp2.1\GetSet_ConsoleApp10.runtimeconfig.dev.json
+E:\GitHub\DotNetStudy\DotNET\repos\GetSet_ConsoleApp10\GetSet_ConsoleApp10\bin\Debug\netcoreapp2.1\GetSet_ConsoleApp10.dll
+E:\GitHub\DotNetStudy\DotNET\repos\GetSet_ConsoleApp10\GetSet_ConsoleApp10\bin\Debug\netcoreapp2.1\GetSet_ConsoleApp10.pdb
+E:\GitHub\DotNetStudy\DotNET\repos\GetSet_ConsoleApp10\GetSet_ConsoleApp10\obj\Debug\netcoreapp2.1\GetSet_ConsoleApp10.csproj.CoreCompileInputs.cache
+E:\GitHub\DotNetStudy\DotNET\repos\GetSet_ConsoleApp10\GetSet_ConsoleApp10\obj\Debug\netcoreapp2.1\GetSet_ConsoleApp10.AssemblyInfoInputs.cache
+E:\GitHub\DotNetStudy\DotNET\repos\GetSet_ConsoleApp10\GetSet_ConsoleApp10\obj\Debug\netcoreapp2.1\GetSet_ConsoleApp10.AssemblyInfo.cs
+E:\GitHub\DotNetStudy\DotNET\repos\GetSet_ConsoleApp10\GetSet_ConsoleApp10\obj\Debug\netcoreapp2.1\GetSet_ConsoleApp10.dll
+E:\GitHub\DotNetStudy\DotNET\repos\GetSet_ConsoleApp10\GetSet_ConsoleApp10\obj\Debug\netcoreapp2.1\GetSet_ConsoleApp10.pdb
