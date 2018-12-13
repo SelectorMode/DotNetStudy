@@ -1,0 +1,10 @@
+E:\GitHub\DotNetStudy\DotNET\repos\Cast_ConsoleApp12\Cast_ConsoleApp12\bin\Debug\netcoreapp2.1\Cast_ConsoleApp12.deps.json
+E:\GitHub\DotNetStudy\DotNET\repos\Cast_ConsoleApp12\Cast_ConsoleApp12\bin\Debug\netcoreapp2.1\Cast_ConsoleApp12.runtimeconfig.json
+E:\GitHub\DotNetStudy\DotNET\repos\Cast_ConsoleApp12\Cast_ConsoleApp12\bin\Debug\netcoreapp2.1\Cast_ConsoleApp12.runtimeconfig.dev.json
+E:\GitHub\DotNetStudy\DotNET\repos\Cast_ConsoleApp12\Cast_ConsoleApp12\bin\Debug\netcoreapp2.1\Cast_ConsoleApp12.dll
+E:\GitHub\DotNetStudy\DotNET\repos\Cast_ConsoleApp12\Cast_ConsoleApp12\bin\Debug\netcoreapp2.1\Cast_ConsoleApp12.pdb
+E:\GitHub\DotNetStudy\DotNET\repos\Cast_ConsoleApp12\Cast_ConsoleApp12\obj\Debug\netcoreapp2.1\Cast_ConsoleApp12.csproj.CoreCompileInputs.cache
+E:\GitHub\DotNetStudy\DotNET\repos\Cast_ConsoleApp12\Cast_ConsoleApp12\obj\Debug\netcoreapp2.1\Cast_ConsoleApp12.AssemblyInfoInputs.cache
+E:\GitHub\DotNetStudy\DotNET\repos\Cast_ConsoleApp12\Cast_ConsoleApp12\obj\Debug\netcoreapp2.1\Cast_ConsoleApp12.AssemblyInfo.cs
+E:\GitHub\DotNetStudy\DotNET\repos\Cast_ConsoleApp12\Cast_ConsoleApp12\obj\Debug\netcoreapp2.1\Cast_ConsoleApp12.dll
+E:\GitHub\DotNetStudy\DotNET\repos\Cast_ConsoleApp12\Cast_ConsoleApp12\obj\Debug\netcoreapp2.1\Cast_ConsoleApp12.pdb

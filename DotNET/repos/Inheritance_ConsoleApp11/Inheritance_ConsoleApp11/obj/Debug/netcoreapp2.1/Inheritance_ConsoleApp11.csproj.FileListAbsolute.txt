@@ -1,0 +1,11 @@
+E:\GitHub\DotNetStudy\DotNET\repos\Inheritance_ConsoleApp11\Inheritance_ConsoleApp11\bin\Debug\netcoreapp2.1\Inheritance_ConsoleApp11.deps.json
+E:\GitHub\DotNetStudy\DotNET\repos\Inheritance_ConsoleApp11\Inheritance_ConsoleApp11\bin\Debug\netcoreapp2.1\Inheritance_ConsoleApp11.runtimeconfig.json
+E:\GitHub\DotNetStudy\DotNET\repos\Inheritance_ConsoleApp11\Inheritance_ConsoleApp11\bin\Debug\netcoreapp2.1\Inheritance_ConsoleApp11.runtimeconfig.dev.json
+E:\GitHub\DotNetStudy\DotNET\repos\Inheritance_ConsoleApp11\Inheritance_ConsoleApp11\bin\Debug\netcoreapp2.1\Inheritance_ConsoleApp11.dll
+E:\GitHub\DotNetStudy\DotNET\repos\Inheritance_ConsoleApp11\Inheritance_ConsoleApp11\bin\Debug\netcoreapp2.1\Inheritance_ConsoleApp11.pdb
+E:\GitHub\DotNetStudy\DotNET\repos\Inheritance_ConsoleApp11\Inheritance_ConsoleApp11\obj\Debug\netcoreapp2.1\Inheritance_ConsoleApp11.csprojAssemblyReference.cache
+E:\GitHub\DotNetStudy\DotNET\repos\Inheritance_ConsoleApp11\Inheritance_ConsoleApp11\obj\Debug\netcoreapp2.1\Inheritance_ConsoleApp11.csproj.CoreCompileInputs.cache
+E:\GitHub\DotNetStudy\DotNET\repos\Inheritance_ConsoleApp11\Inheritance_ConsoleApp11\obj\Debug\netcoreapp2.1\Inheritance_ConsoleApp11.AssemblyInfoInputs.cache
+E:\GitHub\DotNetStudy\DotNET\repos\Inheritance_ConsoleApp11\Inheritance_ConsoleApp11\obj\Debug\netcoreapp2.1\Inheritance_ConsoleApp11.AssemblyInfo.cs
+E:\GitHub\DotNetStudy\DotNET\repos\Inheritance_ConsoleApp11\Inheritance_ConsoleApp11\obj\Debug\netcoreapp2.1\Inheritance_ConsoleApp11.dll
+E:\GitHub\DotNetStudy\DotNET\repos\Inheritance_ConsoleApp11\Inheritance_ConsoleApp11\obj\Debug\netcoreapp2.1\Inheritance_ConsoleApp11.pdb
