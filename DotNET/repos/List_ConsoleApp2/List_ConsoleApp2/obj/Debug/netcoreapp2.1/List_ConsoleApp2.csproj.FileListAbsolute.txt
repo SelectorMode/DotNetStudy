@@ -1,0 +1,11 @@
+D:\DotNetStudy\DotNET\repos\List_ConsoleApp2\List_ConsoleApp2\bin\Debug\netcoreapp2.1\List_ConsoleApp2.deps.json
+D:\DotNetStudy\DotNET\repos\List_ConsoleApp2\List_ConsoleApp2\bin\Debug\netcoreapp2.1\List_ConsoleApp2.runtimeconfig.json
+D:\DotNetStudy\DotNET\repos\List_ConsoleApp2\List_ConsoleApp2\bin\Debug\netcoreapp2.1\List_ConsoleApp2.runtimeconfig.dev.json
+D:\DotNetStudy\DotNET\repos\List_ConsoleApp2\List_ConsoleApp2\bin\Debug\netcoreapp2.1\List_ConsoleApp2.dll
+D:\DotNetStudy\DotNET\repos\List_ConsoleApp2\List_ConsoleApp2\bin\Debug\netcoreapp2.1\List_ConsoleApp2.pdb
+D:\DotNetStudy\DotNET\repos\List_ConsoleApp2\List_ConsoleApp2\obj\Debug\netcoreapp2.1\List_ConsoleApp2.csprojAssemblyReference.cache
+D:\DotNetStudy\DotNET\repos\List_ConsoleApp2\List_ConsoleApp2\obj\Debug\netcoreapp2.1\List_ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\DotNetStudy\DotNET\repos\List_ConsoleApp2\List_ConsoleApp2\obj\Debug\netcoreapp2.1\List_ConsoleApp2.AssemblyInfoInputs.cache
+D:\DotNetStudy\DotNET\repos\List_ConsoleApp2\List_ConsoleApp2\obj\Debug\netcoreapp2.1\List_ConsoleApp2.AssemblyInfo.cs
+D:\DotNetStudy\DotNET\repos\List_ConsoleApp2\List_ConsoleApp2\obj\Debug\netcoreapp2.1\List_ConsoleApp2.dll
+D:\DotNetStudy\DotNET\repos\List_ConsoleApp2\List_ConsoleApp2\obj\Debug\netcoreapp2.1\List_ConsoleApp2.pdb
