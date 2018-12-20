@@ -1,0 +1,11 @@
+D:\DotNetStudy\DotNET\repos\TryCatchFinally_ConsoleApp1\TryCatchFinally_ConsoleApp1\bin\Debug\netcoreapp2.1\TryCatchFinally_ConsoleApp1.deps.json
+D:\DotNetStudy\DotNET\repos\TryCatchFinally_ConsoleApp1\TryCatchFinally_ConsoleApp1\bin\Debug\netcoreapp2.1\TryCatchFinally_ConsoleApp1.runtimeconfig.json
+D:\DotNetStudy\DotNET\repos\TryCatchFinally_ConsoleApp1\TryCatchFinally_ConsoleApp1\bin\Debug\netcoreapp2.1\TryCatchFinally_ConsoleApp1.runtimeconfig.dev.json
+D:\DotNetStudy\DotNET\repos\TryCatchFinally_ConsoleApp1\TryCatchFinally_ConsoleApp1\bin\Debug\netcoreapp2.1\TryCatchFinally_ConsoleApp1.dll
+D:\DotNetStudy\DotNET\repos\TryCatchFinally_ConsoleApp1\TryCatchFinally_ConsoleApp1\bin\Debug\netcoreapp2.1\TryCatchFinally_ConsoleApp1.pdb
+D:\DotNetStudy\DotNET\repos\TryCatchFinally_ConsoleApp1\TryCatchFinally_ConsoleApp1\obj\Debug\netcoreapp2.1\TryCatchFinally_ConsoleApp1.csprojAssemblyReference.cache
+D:\DotNetStudy\DotNET\repos\TryCatchFinally_ConsoleApp1\TryCatchFinally_ConsoleApp1\obj\Debug\netcoreapp2.1\TryCatchFinally_ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\DotNetStudy\DotNET\repos\TryCatchFinally_ConsoleApp1\TryCatchFinally_ConsoleApp1\obj\Debug\netcoreapp2.1\TryCatchFinally_ConsoleApp1.AssemblyInfoInputs.cache
+D:\DotNetStudy\DotNET\repos\TryCatchFinally_ConsoleApp1\TryCatchFinally_ConsoleApp1\obj\Debug\netcoreapp2.1\TryCatchFinally_ConsoleApp1.AssemblyInfo.cs
+D:\DotNetStudy\DotNET\repos\TryCatchFinally_ConsoleApp1\TryCatchFinally_ConsoleApp1\obj\Debug\netcoreapp2.1\TryCatchFinally_ConsoleApp1.dll
+D:\DotNetStudy\DotNET\repos\TryCatchFinally_ConsoleApp1\TryCatchFinally_ConsoleApp1\obj\Debug\netcoreapp2.1\TryCatchFinally_ConsoleApp1.pdb
