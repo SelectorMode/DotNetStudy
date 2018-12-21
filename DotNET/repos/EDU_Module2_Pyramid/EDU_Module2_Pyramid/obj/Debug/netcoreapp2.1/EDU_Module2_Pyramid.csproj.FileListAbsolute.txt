@@ -1,0 +1,11 @@
+D:\DotNetStudy\DotNET\repos\EDU_Module2_Pyramid\EDU_Module2_Pyramid\bin\Debug\netcoreapp2.1\EDU_Module2_Pyramid.deps.json
+D:\DotNetStudy\DotNET\repos\EDU_Module2_Pyramid\EDU_Module2_Pyramid\bin\Debug\netcoreapp2.1\EDU_Module2_Pyramid.runtimeconfig.json
+D:\DotNetStudy\DotNET\repos\EDU_Module2_Pyramid\EDU_Module2_Pyramid\bin\Debug\netcoreapp2.1\EDU_Module2_Pyramid.runtimeconfig.dev.json
+D:\DotNetStudy\DotNET\repos\EDU_Module2_Pyramid\EDU_Module2_Pyramid\bin\Debug\netcoreapp2.1\EDU_Module2_Pyramid.dll
+D:\DotNetStudy\DotNET\repos\EDU_Module2_Pyramid\EDU_Module2_Pyramid\bin\Debug\netcoreapp2.1\EDU_Module2_Pyramid.pdb
+D:\DotNetStudy\DotNET\repos\EDU_Module2_Pyramid\EDU_Module2_Pyramid\obj\Debug\netcoreapp2.1\EDU_Module2_Pyramid.csprojAssemblyReference.cache
+D:\DotNetStudy\DotNET\repos\EDU_Module2_Pyramid\EDU_Module2_Pyramid\obj\Debug\netcoreapp2.1\EDU_Module2_Pyramid.csproj.CoreCompileInputs.cache
+D:\DotNetStudy\DotNET\repos\EDU_Module2_Pyramid\EDU_Module2_Pyramid\obj\Debug\netcoreapp2.1\EDU_Module2_Pyramid.AssemblyInfoInputs.cache
+D:\DotNetStudy\DotNET\repos\EDU_Module2_Pyramid\EDU_Module2_Pyramid\obj\Debug\netcoreapp2.1\EDU_Module2_Pyramid.AssemblyInfo.cs
+D:\DotNetStudy\DotNET\repos\EDU_Module2_Pyramid\EDU_Module2_Pyramid\obj\Debug\netcoreapp2.1\EDU_Module2_Pyramid.dll
+D:\DotNetStudy\DotNET\repos\EDU_Module2_Pyramid\EDU_Module2_Pyramid\obj\Debug\netcoreapp2.1\EDU_Module2_Pyramid.pdb
