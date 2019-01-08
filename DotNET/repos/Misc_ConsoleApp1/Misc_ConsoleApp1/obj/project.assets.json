@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\skhomenko\\.nuget\\packages\\": {},
+    "C:\\Users\\Sergey\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNetStudy\\DotNET\\repos\\Misc_ConsoleApp1\\Misc_ConsoleApp1\\Misc_ConsoleApp1.csproj",
+      "projectUniqueName": "E:\\GitHub\\DotNetStudy\\DotNET\\repos\\Misc_ConsoleApp1\\Misc_ConsoleApp1\\Misc_ConsoleApp1.csproj",
       "projectName": "Misc_ConsoleApp1",
-      "projectPath": "D:\\DotNetStudy\\DotNET\\repos\\Misc_ConsoleApp1\\Misc_ConsoleApp1\\Misc_ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\skhomenko\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNetStudy\\DotNET\\repos\\Misc_ConsoleApp1\\Misc_ConsoleApp1\\obj\\",
+      "projectPath": "E:\\GitHub\\DotNetStudy\\DotNET\\repos\\Misc_ConsoleApp1\\Misc_ConsoleApp1\\Misc_ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\Sergey\\.nuget\\packages\\",
+      "outputPath": "E:\\GitHub\\DotNetStudy\\DotNET\\repos\\Misc_ConsoleApp1\\Misc_ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\skhomenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sergey\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
